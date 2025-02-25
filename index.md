@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Some Title
 
 [Project 1 Title](/sample_page)
 <img src="images/Final_Snake_Game.gif?raw=true"/>
